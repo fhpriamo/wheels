@@ -1,7 +1,7 @@
 # wheels
 Modeling the rationale presented in an exam question as an OOP design exercise.
 
-{{{{IMAGE HERE}}}}}
+![Question snapshot](https://raw.githubusercontent.com/fhpriamo/wheels/master/question_snapshot.png)
 
 The question was originally published on the ENEM (The largest entrance exam in Brazil) 2016. 
 
