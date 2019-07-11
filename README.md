@@ -1,6 +1,6 @@
 # wheels
 
-Modeling the mechanics of an interesting problem as an OOP design exercise.
+Modeling the mechanics (almost literally) of an interesting problem as an OOP design exercise.
 
 The rationale behind the design is based on a question statement originally published in 2016 on the largest entrance exam in Brazil, known as ***ENEM***.
 
